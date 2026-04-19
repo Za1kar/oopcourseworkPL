@@ -8,5 +8,15 @@
     "category": "phones",
     "brand": "apple",
     "warrantyMonths": 12
+  },
+  {
+    "type": "Food",
+    "id": "f01",
+    "name": "pizza",
+    "quantity": 1000,
+    "price": 10.0,
+    "category": "fastfood",
+    "expiryDate": "2026-12-12",
+    "isOrganic": false
   }
 ]

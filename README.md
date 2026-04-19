@@ -184,7 +184,7 @@ Password: admin123
 
 ## Presentation
 
-> Link to slides: *(add your Google Slides link here)*
+> Link to slides: https://drive.google.com/file/d/17p-mg3D5EyncvLyjaoPWbhdvzeII0hzF/view?usp=drive_link
  
 ---
 
