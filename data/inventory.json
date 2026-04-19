@@ -1,15 +1,5 @@
 [
   {
-    "type": "Electronics",
-    "id": "e01",
-    "name": "iphone",
-    "quantity": 4,
-    "price": 1000.0,
-    "category": "phones",
-    "brand": "apple",
-    "warrantyMonths": 12
-  },
-  {
     "type": "Food",
     "id": "f01",
     "name": "pizza",
@@ -18,5 +8,25 @@
     "category": "fastfood",
     "expiryDate": "2026-12-12",
     "isOrganic": false
+  },
+  {
+    "type": "Electronics",
+    "id": "e02",
+    "name": "macbook",
+    "quantity": 20,
+    "price": 1999.0,
+    "category": "laptops",
+    "brand": "apple",
+    "warrantyMonths": 12
+  },
+  {
+    "type": "Food",
+    "id": "f02",
+    "name": "burger",
+    "quantity": 300,
+    "price": 10.0,
+    "category": "fastfood",
+    "expiryDate": "2026-12-12",
+    "isOrganic": true
   }
 ]
