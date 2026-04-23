@@ -1,0 +1,12 @@
+[
+  {
+    "type": "Electronics",
+    "id": "e01",
+    "name": "iphone",
+    "quantity": 4,
+    "price": 1000.0,
+    "category": "phones",
+    "brand": "apple",
+    "warrantyMonths": 12
+  }
+]
